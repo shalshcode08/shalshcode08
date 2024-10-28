@@ -1,4 +1,6 @@
-Hello World 👋 I'm Somya Shrestha
+hi# Hello I'm Somya 👋
+
+I’m a Full-Stack Developer specializing in the MERN stack with a strong interest in DevOps. I’m passionate about building high-quality code and optimizing workflows. Always exploring new technologies and tools to enhance my projects, I strive for continuous learning and improvement.
 
 
 <!---
