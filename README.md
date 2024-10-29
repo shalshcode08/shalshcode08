@@ -4,7 +4,7 @@ I’m a Full-Stack Developer specializing in the MERN stack with a strong intere
 
 ## 💻 Technologies and Tools
 
- - Programming Languanges : C, C++, JavaScript, TypeScript, HTML, CSS
+ - Programming/Scripting Languanges : C, C++, JavaScript, TypeScript, HTML, CSS
  - Fontend : Rect.js, Next.js
  - Backend : Node, Express
  - Databases : MongoDB, PostgresSQL
