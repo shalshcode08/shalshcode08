@@ -1,65 +1,47 @@
-<h1 align="center">Somya Shrestha</h1>
+# Hi, I'm Somya 👋
 
-<p align="center">
-  Full-Stack Developer &nbsp;·&nbsp; MERN &amp; Go &nbsp;·&nbsp; DevOps Enthusiast
-</p>
+📍 **India** | 🛠️ **Full-Stack Developer** | 🤖 **AI-augmented builder**
 
-<p align="center">
-  <a href="https://twitter.com/heyysomu08">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:somushrestha448@gmail.com">
-    <img src="https://img.shields.io/badge/Email-somushrestha448%40gmail.com-blue?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shalshcode08&style=flat&color=grey" />
-</p>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
----
-
-I build scalable web applications and developer tools with a focus on clean architecture and performance. My stack spans TypeScript on the frontend to Go on the backend, with a growing interest in DevOps and infrastructure.
-
----
-
-## Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
----
+> I build things people actually use — web apps, APIs, CLI tools, and the occasional idea that probably shouldn't exist but does anyway.
 
 ## Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [dev-planet](https://github.com/shalshcode08/dev-planet) | Interactive 3D solar system — your GitHub repos as planets | TypeScript |
-| [easy-hunt](https://github.com/shalshcode08/easy-hunt) | Unified job feed aggregating LinkedIn, Naukri & Indeed | TypeScript |
-| [GitBanner](https://github.com/shalshcode08/GitBanner) | Generate GitHub profile banners with live stats | TypeScript / Go |
-| [GO-APIs](https://github.com/shalshcode08/GO-APIs) | Production-ready e-commerce REST API with JWT auth | Go |
-| [Term-Note](https://github.com/shalshcode08/Term-Note) | Minimal terminal note-taking app using Bubble Tea | Go |
-| [track-down](https://github.com/shalshcode08/track-down) | Log expenses via Telegram bot with a web review interface | TypeScript |
-
----
+- 🏎️ **[KartBlitz](https://kartblitz.fun)** - Browser-based 3D kart racing game with multiple handcrafted worlds — forest, city, and ice — built with Three.js & React
+- 🪐 **[dev-planet](https://github.com/shalshcode08/dev-planet)** - Visualize your GitHub repos as an interactive 3D solar system
+- 🔍 **[easy-hunt](https://github.com/shalshcode08/easy-hunt)** - Aggregates LinkedIn, Naukri & Indeed into a single, searchable job feed
+- 🎨 **[GitBanner](https://github.com/shalshcode08/GitBanner)** - Auto-generates shareable GitHub profile banners with real-time stats
+- 💸 **[track-down](https://github.com/shalshcode08/track-down)** - Expense tracker that lives in Telegram; review your spending from a web dashboard
+- 🖼️ **[one-convert](https://github.com/shalshcode08/one-convert)** - Client-side image converter — no uploads, no backend, just speed
+- 📝 **[Term-Note](https://github.com/shalshcode08/Term-Note)** - Distraction-free terminal notes in Go, built on Bubble Tea's ELM architecture
+- 💬 **[Chatdis](https://github.com/shalshcode08/Chatdis)** - Real-time chat application with instant messaging and live presence
+- 📨 **[email-dispatcher](https://github.com/shalshcode08/email-dispatcher)** - High-throughput bulk email system in Go using worker pools, goroutines, and SMTP — ~100 emails/sec
+- 🛒 **[GO-APIs](https://github.com/shalshcode08/GO-APIs)** - E-commerce REST API in Go — JWT auth, clean layered architecture, production-ready
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalshcode08&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalshcode08&layout=compact&theme=github_dark&hide_border=true" height="150" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shalshcode08&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="150" />
 </p>
+
+## What I'm Doing
+
+- **Shipping fast** — using Claude Code and Gemini to move from idea to working product in days
+- **Going deeper into Go** — microservices, concurrency patterns, and production-grade backend systems
+- **Exploring 3D on the web** — Three.js and WebGL for experiences that go beyond the typical web page
+- **Open to work** — looking for full-stack or backend roles where I can build things that matter
+
+## Connect
+
+[![X](https://img.shields.io/badge/-@heyysomu08-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/heyysomu08)
+[![Email](https://img.shields.io/badge/-somushrestha448@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:somushrestha448@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shalshcode08)
