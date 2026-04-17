@@ -30,7 +30,7 @@
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalshcode08&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&hide=issues,contribs&show=prs_merged" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalshcode08&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide=issues,contribs&show=prs_merged" height="150" />
 </p>
 
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshalshcode08&query=%24.public_repos&label=Public%20Repos&color=0075ff&style=flat-square&logo=github&logoColor=white)
