@@ -14,7 +14,7 @@
 
 > I build things people actually use — web apps, APIs, CLI tools, and the occasional idea that probably shouldn't exist but does anyway.
 
-## Projects
+## Recent Projects
 
 - 🏎️ **[KartBlitz](https://kartblitz.fun)** - Browser-based 3D kart racing game with multiple handcrafted worlds — forest, city, and ice — built with Three.js & React
 - 🪐 **[dev-planet](https://github.com/shalshcode08/dev-planet)** - Visualize your GitHub repos as an interactive 3D solar system
