@@ -16,6 +16,8 @@
 
 ## Recent Projects
 
+- 📚 **[Knowledge Base](https://github.com/shalshcode08/knowledge-base)** - In-depth engineering notes for structured learning, practical revision, and technical interviews
+- 🧩 **[Litcode Helper](https://github.com/shalshcode08/litcode-helper)** - Chrome extension that automatically saves accepted LeetCode solutions to GitHub
 - 🏎️ **[KartBlitz](https://kartblitz.fun)** - Browser-based 3D kart racing game with multiple handcrafted worlds — forest, city, and ice — built with Three.js & React
 - 🪐 **[dev-planet](https://github.com/shalshcode08/dev-planet)** - Visualize your GitHub repos as an interactive 3D solar system
 - 🔍 **[easy-hunt](https://github.com/shalshcode08/easy-hunt)** - Aggregates LinkedIn, Naukri & Indeed into a single, searchable job feed
