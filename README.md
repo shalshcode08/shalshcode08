@@ -9,7 +9,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
+![ChatGPT Codex](https://img.shields.io/badge/-ChatGPT%20Codex-10A37F?style=flat-square&logo=openai&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 > I build things people actually use — web apps, APIs, CLI tools, and the occasional idea that probably shouldn't exist but does anyway.
@@ -40,7 +40,7 @@
 
 ## What I'm Doing
 
-- **Shipping fast** — using Claude Code and Gemini to move from idea to working product in days
+- **Shipping fast** - using Claude Code and ChatGPT Codex to move from idea to working product in days
 - **Going deeper into Go** — microservices, concurrency patterns, and production-grade backend systems
 - **Exploring 3D on the web** — Three.js and WebGL for experiences that go beyond the typical web page
 - **Open to work** — looking for full-stack or backend roles where I can build things that matter
